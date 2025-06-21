@@ -18,11 +18,11 @@ body
     top: 10px;
 }
 /* button patterns */
-div
+.txt_button
 {
-    text-align:center;
-    align-items: center;
-    vertical-align: middle;
+    position: relative;
+    top: 10px;
+    text-align: center;
 }
 #button1
 {
