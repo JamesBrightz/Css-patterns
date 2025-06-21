@@ -6,48 +6,80 @@ body
 .box
 {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: space-around;
-    background-color: burlywood;
-    width: 25%;
-    height: 500px;
-    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 2px;
     color: whitesmoke;
     text-shadow: 0px 1px 0px black;
-    
+    position: relative;
+    top: 10px;
 }
 /* button patterns */
+div
+{
+    text-align:center;
+    align-items: center;
+}
 #button1
 {
     background-color: silver;
-    width: 100%;
-    height: 100px;
-    border-left: 24px red solid;
-    align-items: center;
+    width: 400px;
+    height: 70px;
+    border-left: 18px red solid;
 }
 #button2
 {
     background-color: silver;
-    width: 100%;
-    height: 100px;
-    border: 9px forestgreen solid;
-    align-items: center;
+    width: 400px;
+    height: 70px;
+    border: 6px forestgreen solid;
 }
 #button3
 {
     background-color: silver;
-    width: 100%;
-    height: 100px;
-    border-bottom: 24px orange solid;
-    align-items: center;
+    width: 400px;
+    height: 70px;
+    border-bottom: 12px orange solid;
 }
 #button4
 {
     background-color: silver;
-    width: 100%;
-    height: 100px;
-    justify-content: center;
+    width: 400px;
+    height: 70px;
+}
+
+/* animated button patterns */
+#button1:hover
+{
+    background-color: silver;
+    width: 400px;
+    height: 70px;
+    background-color: red;
+    
+}
+#button2:hover
+{
+    background-color: forestgreen;
+    width: 400px;
+    height: 70px;
+
+}
+#button3:hover
+{
+    background-color: silver;
+    width: 400px;
+    height: 70px;
+    background-color: orange;
+
+}
+#button4:hover
+{
+    background-color: silver;
+    width: 400px;
+    height: 70px;
+    box-shadow: 0px 2px 4px black;
+
 }
