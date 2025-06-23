@@ -35,7 +35,7 @@ body
     color: whitesmoke;
     background-color: darkgoldenrod;
 }
-/* button patterns 1 */
+/* txt patterns */
 .txt_button
 {
     position: relative;
@@ -43,6 +43,7 @@ body
     text-align: center;
   
 }
+/* button patterns 1 */
 #button1
 {
     background-color: silver;
@@ -117,5 +118,5 @@ body
 }
 #button8
 {
-    
+
 }
