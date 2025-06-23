@@ -43,6 +43,12 @@ body
     text-align: center;
   
 }
+.txt_button2
+{
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
 /* button patterns 1 */
 #button1
 {
