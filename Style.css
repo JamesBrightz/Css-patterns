@@ -46,6 +46,7 @@ body
     flex-direction: column;
     width: 25%;
     height: 400px;
+    background-color: bisque;
     margin-left: 1%;
     letter-spacing: 2px;
     color: whitesmoke;
@@ -59,6 +60,12 @@ body
   
 }
 .txt_button2
+{
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+.txt_button3
 {
     position: relative;
     top: 10px;
