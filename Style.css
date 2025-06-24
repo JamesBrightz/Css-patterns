@@ -55,7 +55,8 @@ body
 /* txt patterns */
 .txt_button,
 .txt_button2,
-.txt_button3
+.txt_button3,
+.txt_button4
 {
     position: relative;
     top: 10px;
