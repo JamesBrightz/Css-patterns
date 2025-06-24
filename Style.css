@@ -52,19 +52,8 @@ body
     color: whitesmoke;
 }
 /* txt patterns */
-.txt_button
-{
-    position: relative;
-    top: 10px;
-    text-align: center;
-  
-}
-.txt_button2
-{
-    position: relative;
-    top: 10px;
-    text-align: center;
-}
+.txt_button,
+.txt_button2,
 .txt_button3
 {
     position: relative;
