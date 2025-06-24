@@ -113,24 +113,9 @@ body
 
 }
 /* button patterns 2 */
-#button5
-{
-    background-color: darkcyan;
-    width: 100%;
-    height: 70px;
-}
-#button6
-{
-    background-color: darkcyan;
-    width: 100%;
-    height: 70px;
-}
-#button7
-{
-    background-color: darkcyan;
-    width: 100%;
-    height: 70px;
-}
+#button5,
+#button6,
+#button7,
 #button8
 {
     background-color: darkcyan;
