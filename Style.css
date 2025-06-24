@@ -37,6 +37,7 @@ body
     margin-left: 1%;
     letter-spacing: 2px;
     color: whitesmoke;
+    text-shadow: 0px 1px 0px black;
 }
 .box3
 {
@@ -49,6 +50,7 @@ body
     margin-left: 1%;
     letter-spacing: 2px;
     color: whitesmoke;
+    text-shadow: 0px 1px 0px black;
 }
 /* txt patterns */
 .txt_button,
