@@ -56,6 +56,15 @@ body
     text-shadow: 0px 1px 0px black;
 }
 /* nav sub-elements */
+.nav .box_nav
+{
+    width: 50%;
+    height: 70px;
+    background-color: darkcyan;
+    border: 2px black solid;
+    text-align: center;
+    border-radius: 20px;
+}
 /* txt patterns */
 .txt_button,
 .txt_button2,
