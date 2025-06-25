@@ -57,7 +57,7 @@ body
 {
     width: 50%;
     height: 70px;
-    background-color: darkcyan;
+    background-color: darkkhaki;
     border: 2px black solid;
     text-align: center;
     border-radius: 20px;
@@ -74,7 +74,7 @@ body
 }
 .txt_nav
 {
-    margin-top: 10px;
+    margin-top: 8px;
 }
 /* button patterns 1 */
 #button1
